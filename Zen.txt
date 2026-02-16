@@ -57,3 +57,4 @@ The Zen of Python, by Tim Peters
 55.If the implementation is easy to explain, it may be a good idea.
 56.Namespaces are one honking great idea -- let's do more of those!
 57.Beautiful is better than ugly.
+58.Explicit is better than implicit.
